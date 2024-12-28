@@ -1,3 +1,4 @@
+```mermaid
 flowchart TB
     subgraph Client["Mobile App (React Native)"]
         UI["User Interface"]
